@@ -142,3 +142,4 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 ⭐ **¡Si este proyecto te parece útil, no olvides darle una estrella!** ⭐
 
 *Proyecto desarrollado con ❤️ por el Grupo 7B para reducir la desigualdad social en Argentina*
+README LISTO
